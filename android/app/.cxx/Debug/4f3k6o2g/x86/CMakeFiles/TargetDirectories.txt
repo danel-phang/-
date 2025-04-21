@@ -1,0 +1,2 @@
+E:/1MyProjiect/wenlu/android/app/.cxx/Debug/4f3k6o2g/x86/CMakeFiles/edit_cache.dir
+E:/1MyProjiect/wenlu/android/app/.cxx/Debug/4f3k6o2g/x86/CMakeFiles/rebuild_cache.dir
